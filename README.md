@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirmal67-8
 - 👀 I’m interested in data base management and machine learning 
-- 🌱 I’m currently learning python, data base management, c++ and networking  
+- 🌱 I’m currently learning python, data science using python, data base management system, c++ and computer networking  
 - 📫 How to reach me 👉
  nirmalkalhoro805@gmail.com
 
